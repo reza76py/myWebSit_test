@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+  
+  div {
+    padding: 1rem;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
